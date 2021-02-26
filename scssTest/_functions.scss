@@ -1,0 +1,5 @@
+@import "_variables";
+
+@mixin changeColor($color1, $color2) {
+    background-color: $color1, $color2;
+}
